@@ -1,0 +1,59 @@
+.tb1 {
+    width: 1000px;
+    border-width: 1px;
+    border-color: blue;
+    border-style: solid;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tb2 {
+    width: 1000px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.td1 {
+    border-width: 1px;
+    border-color: blue;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+}
+
+.td2 {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+}
+
+.td3 {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+}
+
+.tb2 td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+.bt {
+    background-color: dodgerblue;
+    color: white;
+    width: 50px;
+}
